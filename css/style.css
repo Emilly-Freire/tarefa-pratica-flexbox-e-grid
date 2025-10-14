@@ -12,7 +12,10 @@
     text-align: center;
 }
 
-.pokemons ul li {
-    display: grid;
+.pokemons {
+    display: flex;
     justify-content: center;
+    text-align: center;
+    border-color: blue;
+    border-radius: 20%;
 }
